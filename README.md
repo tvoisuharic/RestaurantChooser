@@ -39,11 +39,19 @@ of the restaurant-chooser application/
 ├── components/          # Reusable components
 
 │   ├── CustomButton.js
+
 │   └── CustomTextInput.js
+
 ├── screens/            # Application Screens
+
 │   ├── PeopleScreen.js
+
 │   ├── RestaurantsScreen.js
+
 │   └── DecisionScreen.js
+
 ├── navigation.js # Application Navigation
+
 ├── App.js # Root Component
+
 └── package.json # Dependencies and Scripts
