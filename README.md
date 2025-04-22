@@ -33,8 +33,11 @@ npx expostart
 
 The structure
 of the restaurant-chooser application/
+
 ├── assets/              # Images and icons
+
 ├── components/          # Reusable components
+
 │   ├── CustomButton.js
 │   └── CustomTextInput.js
 ├── screens/            # Application Screens
